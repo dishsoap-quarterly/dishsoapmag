@@ -17,6 +17,7 @@ const Masthead = () => {
     <Subheader title="dish museum" />
     <Layout>
       <Head title="archive" />
+    
   <h1 className={issueStyles.heading}>Issue 2</h1>
       <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
