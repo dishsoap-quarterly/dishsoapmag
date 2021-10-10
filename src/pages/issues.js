@@ -70,6 +70,12 @@ const Issues = () => {
                 <p>Time Bomb</p>
               </Link>
             </div>
+            <div>
+              <h2>miriam alex</h2>
+              <Link to="https://www.youtube.com/watch?v=MDdIs5S-yXw">
+                <p>testing testing</p>
+              </Link>
+            </div>
           </div>
           <h1 className={issueStyles.heading}>play</h1>
           <div className={issueStyles.parent}>
@@ -101,7 +107,7 @@ const Issues = () => {
               </Link>
           </div>
         </div>
-        
+
         </div>
       </Layout>
     </>
