@@ -46,7 +46,7 @@ const Issues = () => {
               <Link to="/issue2/empty">
                 <p>Empty</p>
               </Link>
-              <h2>rl wheeler</h2>
+              <h2>rl wheeler | edit </h2>
               <Link to="/issue2/ars-poetica-open-composition">
                 <p>Ars Poetica: Open Composition</p>
               </Link>
